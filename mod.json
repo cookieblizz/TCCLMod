@@ -1,0 +1,9 @@
+{
+    "geode": "4.0.0",
+    "id": "cookieblizz.TCCLListIntegration",
+    "name": "TCCL List Integration",
+    "version": "1.0.0",
+    "description": "List for all the color challenge list levels",
+    "developer": "Cookielizz",
+    "repository": "https://github.com/cookieblizz/TCCLMod"
+}
